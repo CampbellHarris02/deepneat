@@ -1,7 +1,7 @@
 package main
 
 import (
-	"deepneat"
+	"deepneat/deepneat"
 	"deepneat/vector"
 	"fmt"
 	"log"
