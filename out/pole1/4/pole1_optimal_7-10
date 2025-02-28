@@ -1,0 +1,22 @@
+genomestart 98
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 1 1 3 SigmoidSteepenedActivation
+node 2 1 1 1 SigmoidSteepenedActivation
+node 3 1 1 1 SigmoidSteepenedActivation
+node 4 1 1 1 SigmoidSteepenedActivation
+node 5 1 1 1 SigmoidSteepenedActivation
+node 6 1 0 2 SigmoidSteepenedActivation
+node 7 1 0 2 SigmoidSteepenedActivation
+gene 1 1 6 -0.16010707945745592 false 1 -0.16010707945745592 true
+gene 2 2 6 -2.7828672190469352 false 2 -2.7828672190469352 true
+gene 3 3 6 -0.04506215600283097 false 3 -0.04506215600283097 true
+gene 1 4 6 2.2334500000995763 false 4 2.2334500000995763 true
+gene 2 5 6 -1.5765891266032734 false 5 -1.5765891266032734 true
+gene 3 1 7 -2.2279626522195515 false 6 -2.2279626522195515 true
+gene 1 2 7 -1.4693222906959553 false 7 -1.4693222906959553 true
+gene 2 3 7 0.34924944740216246 false 8 0.34924944740216246 true
+gene 3 4 7 3.494845562951452 false 9 3.494845562951452 true
+gene 1 5 7 -0.20427734524115773 false 10 -0.20427734524115773 true
+genomeend 98

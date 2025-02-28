@@ -1,0 +1,60 @@
+strict digraph {
+// Node definitions.
+1 [
+neuron_type=BIAS
+activation_type=NullActivation
+];
+2 [
+neuron_type=INPT
+activation_type=NullActivation
+];
+3 [
+neuron_type=INPT
+activation_type=NullActivation
+];
+4 [
+neuron_type=OUTP
+activation_type=SigmoidSteepenedActivation
+];
+6 [
+neuron_type=HIDN
+activation_type=SigmoidSteepenedActivation
+];
+
+// Edge definitions.
+1 -> 4 [
+weight=-0.701899
+recurrent=false
+parameters="[0 0 0.814585839399042 0 0.7135861480854556 0 0 0.40043647462172866]"
+];
+1 -> 6 [
+weight=-2.531079
+recurrent=false
+parameters="[0.3 0 0 0 0 0 0 0]"
+];
+2 -> 4 [
+weight=-2.441465
+recurrent=false
+parameters="[0.1875 0 0 0 0 0.04585831671560074 0 0]"
+];
+2 -> 6 [
+weight=3.644867
+recurrent=false
+parameters="[0.1875 0 0 0 0 0.04585831671560074 0 0]"
+];
+3 -> 4 [
+weight=-1.930878
+recurrent=false
+parameters="[0.3 0 0 0 0 0 0 0]"
+];
+3 -> 6 [
+weight=6.953213
+recurrent=false
+parameters="[0.1875 0 0 0 0 0.04585831671560074 0 0]"
+];
+6 -> 4 [
+weight=4.125953
+recurrent=false
+parameters="[0.1875 0 0 0 0 0.04585831671560074 0 0]"
+];
+}

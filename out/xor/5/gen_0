@@ -1,0 +1,2601 @@
+/* Species #1 : (Size 200) (AF 4.050) (Age 1)  */
+/* Organism #78 Fitness: 7.054 Error: 1.807 */
+genomestart 78
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.6696000036857788 false 1 -0.6696000036857788 true
+gene 2 2 4 0.8808414803504393 false 2 0.8808414803504393 true
+gene 3 3 4 -0.8180992909284104 false 3 -0.8180992909284104 true
+genomeend 78
+/* Organism #116 Fitness: 6.800 Error: 1.939 */
+genomestart 116
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.4828889402291115 false 1 -0.4828889402291115 true
+gene 2 2 4 0.7248721068242995 false 2 0.7248721068242995 true
+gene 3 3 4 -0.7469027638721152 false 3 -0.7469027638721152 true
+genomeend 116
+/* Organism #85 Fitness: 6.472 Error: 2.120 */
+genomestart 85
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.2990696986582856 false 1 -0.2990696986582856 true
+gene 2 2 4 0.8460279842598609 false 2 0.8460279842598609 true
+gene 3 3 4 -0.8158481551979863 false 3 -0.8158481551979863 true
+genomeend 85
+/* Organism #197 Fitness: 6.365 Error: 2.182 */
+genomestart 197
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.6831018878159645 false 1 -0.6831018878159645 true
+gene 2 2 4 0.87257324093022 false 2 0.87257324093022 true
+gene 3 3 4 -0.5201046165866513 false 3 -0.5201046165866513 true
+genomeend 197
+/* Organism #118 Fitness: 6.351 Error: 2.190 */
+genomestart 118
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.5765683325761647 false 1 -0.5765683325761647 true
+gene 2 2 4 0.9409365680217445 false 2 0.9409365680217445 true
+gene 3 3 4 0.762300394626821 false 3 0.762300394626821 true
+genomeend 118
+/* Organism #74 Fitness: 6.283 Error: 2.230 */
+genomestart 74
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.5119465848946169 false 1 -0.5119465848946169 true
+gene 2 2 4 0.8813030501527462 false 2 0.8813030501527462 true
+gene 3 3 4 -0.5566352853117614 false 3 -0.5566352853117614 true
+genomeend 74
+/* Organism #5 Fitness: 6.121 Error: 2.329 */
+genomestart 5
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0 false 1 0 true
+gene 2 2 4 0.8772200138101165 false 2 0.8772200138101165 true
+gene 3 3 4 0.8784502186125036 false 3 0.8784502186125036 true
+genomeend 5
+/* Organism #186 Fitness: 6.105 Error: 2.338 */
+genomestart 186
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.3064550381174709 false 1 -0.3064550381174709 true
+gene 2 2 4 -0.6182131422911624 false 2 -0.6182131422911624 true
+gene 3 3 4 0.607481918527166 false 3 0.607481918527166 true
+genomeend 186
+/* Organism #123 Fitness: 6.036 Error: 2.381 */
+genomestart 123
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.019416275335320265 false 1 -0.019416275335320265 true
+gene 2 2 4 0.9466528947881327 false 2 0.9466528947881327 true
+gene 3 3 4 0.5883037087947828 false 3 0.5883037087947828 true
+genomeend 123
+/* Organism #131 Fitness: 5.849 Error: 2.501 */
+genomestart 131
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.5583182825283388 false 1 -0.5583182825283388 true
+gene 2 2 4 0.9728211618331709 false 2 0.9728211618331709 true
+gene 3 3 4 -0.48655984186337603 false 3 -0.48655984186337603 true
+genomeend 131
+/* Organism #64 Fitness: 5.734 Error: 2.577 */
+genomestart 64
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.5005241206216711 false 1 -0.5005241206216711 true
+gene 2 2 4 0.5697245643678898 false 2 0.5697245643678898 true
+gene 3 3 4 0.905950121892108 false 3 0.905950121892108 true
+genomeend 64
+/* Organism #84 Fitness: 5.581 Error: 2.682 */
+genomestart 84
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.8880524022824556 false 1 0.8880524022824556 true
+gene 2 2 4 -0.4937855137653772 false 2 -0.4937855137653772 true
+gene 3 3 4 -0.8173568957850679 false 3 -0.8173568957850679 true
+genomeend 84
+/* Organism #81 Fitness: 5.573 Error: 2.687 */
+genomestart 81
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.09451077165074533 false 1 -0.09451077165074533 true
+gene 2 2 4 -0.9212803161616372 false 2 -0.9212803161616372 true
+gene 3 3 4 0.7641558627609374 false 3 0.7641558627609374 true
+genomeend 81
+/* Organism #117 Fitness: 5.526 Error: 2.720 */
+genomestart 117
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.31006088984325036 false 1 -0.31006088984325036 true
+gene 2 2 4 0.52217647663759 false 2 0.52217647663759 true
+gene 3 3 4 -0.45369432685140393 false 3 -0.45369432685140393 true
+genomeend 117
+/* Organism #163 Fitness: 5.504 Error: 2.736 */
+genomestart 163
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.30758056616034435 false 1 -0.30758056616034435 true
+gene 2 2 4 0.3424659096980472 false 2 0.3424659096980472 true
+gene 3 3 4 -0.8206449189132847 false 3 -0.8206449189132847 true
+genomeend 163
+/* Organism #4 Fitness: 5.402 Error: 2.808 */
+genomestart 4
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.3297961299569009 false 1 -0.3297961299569009 true
+gene 2 2 4 0.8590012159301543 false 2 0.8590012159301543 true
+gene 3 3 4 -0.5663502024524056 false 3 -0.5663502024524056 true
+genomeend 4
+/* Organism #44 Fitness: 5.361 Error: 2.838 */
+genomestart 44
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.28571589301249356 false 1 -0.28571589301249356 true
+gene 2 2 4 0.6696980848945803 false 2 0.6696980848945803 true
+gene 3 3 4 0.3862691928075628 false 3 0.3862691928075628 true
+genomeend 44
+/* Organism #178 Fitness: 5.347 Error: 2.848 */
+genomestart 178
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.47124254393970044 false 1 -0.47124254393970044 true
+gene 2 2 4 0.662908197877916 false 2 0.662908197877916 true
+gene 3 3 4 -0.32899268521335306 false 3 -0.32899268521335306 true
+genomeend 178
+/* Organism #46 Fitness: 5.335 Error: 2.857 */
+genomestart 46
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.6439017052285908 false 1 -0.6439017052285908 true
+gene 2 2 4 -0.5922615840017618 false 2 -0.5922615840017618 true
+gene 3 3 4 0.5443219224218417 false 3 0.5443219224218417 true
+genomeend 46
+/* Organism #177 Fitness: 5.251 Error: 2.919 */
+genomestart 177
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.06905143692788984 false 1 -0.06905143692788984 true
+gene 2 2 4 0.327481192074552 false 2 0.327481192074552 true
+gene 3 3 4 -0.7177925410657362 false 3 -0.7177925410657362 true
+genomeend 177
+/* Organism #25 Fitness: 5.206 Error: 2.952 */
+genomestart 25
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.18831971959272278 false 1 -0.18831971959272278 true
+gene 2 2 4 0.308420187994065 false 2 0.308420187994065 true
+gene 3 3 4 -0.5596352312962475 false 3 -0.5596352312962475 true
+genomeend 25
+/* Organism #169 Fitness: 5.062 Error: 3.063 */
+genomestart 169
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.2450462502967379 false 1 -0.2450462502967379 true
+gene 2 2 4 -0.382278999670896 false 2 -0.382278999670896 true
+gene 3 3 4 0.4675703313401793 false 3 0.4675703313401793 true
+genomeend 169
+/* Organism #55 Fitness: 5.060 Error: 3.064 */
+genomestart 55
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.12243450978760212 false 1 0.12243450978760212 true
+gene 2 2 4 0.7677124476361431 false 2 0.7677124476361431 true
+gene 3 3 4 0.3372111162602163 false 3 0.3372111162602163 true
+genomeend 55
+/* Organism #77 Fitness: 5.040 Error: 3.080 */
+genomestart 77
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.15723127703918252 false 1 0.15723127703918252 true
+gene 2 2 4 0.3990591265499658 false 2 0.3990591265499658 true
+gene 3 3 4 0.7455978690609487 false 3 0.7455978690609487 true
+genomeend 77
+/* Organism #122 Fitness: 4.935 Error: 3.163 */
+genomestart 122
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.09170708455252881 false 1 0.09170708455252881 true
+gene 2 2 4 0.3395110071510606 false 2 0.3395110071510606 true
+gene 3 3 4 -0.9391467841329652 false 3 -0.9391467841329652 true
+genomeend 122
+/* Organism #14 Fitness: 4.909 Error: 3.184 */
+genomestart 14
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.35944230141155964 false 1 -0.35944230141155964 true
+gene 2 2 4 0.2741135873744764 false 2 0.2741135873744764 true
+gene 3 3 4 -0.5206140966109339 false 3 -0.5206140966109339 true
+genomeend 14
+/* Organism #82 Fitness: 4.905 Error: 3.187 */
+genomestart 82
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.03171955245055082 false 1 -0.03171955245055082 true
+gene 2 2 4 0.27195817416853013 false 2 0.27195817416853013 true
+gene 3 3 4 0.4249395809232048 false 3 0.4249395809232048 true
+genomeend 82
+/* Organism #171 Fitness: 4.870 Error: 3.215 */
+genomestart 171
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0 false 1 0 true
+gene 2 2 4 0.2616013908135936 false 2 0.2616013908135936 true
+gene 3 3 4 -0.6862995860784573 false 3 -0.6862995860784573 true
+genomeend 171
+/* Organism #6 Fitness: 4.843 Error: 3.238 */
+genomestart 6
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.9570872563191065 false 1 -0.9570872563191065 true
+gene 2 2 4 0.689999543736967 false 2 0.689999543736967 true
+gene 3 3 4 -0.9754345787459119 false 3 -0.9754345787459119 true
+genomeend 6
+/* Organism #1 Fitness: 4.840 Error: 3.240 */
+genomestart 1
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.04003139451125912 false 1 -0.04003139451125912 true
+gene 2 2 4 -0.8639708649521444 false 2 -0.8639708649521444 true
+gene 3 3 4 0.18114088802459133 false 3 0.18114088802459133 true
+genomeend 1
+/* Organism #9 Fitness: 4.837 Error: 3.243 */
+genomestart 9
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.9036384956785488 false 1 0.9036384956785488 true
+gene 2 2 4 -0.9702782328185355 false 2 -0.9702782328185355 true
+gene 3 3 4 -0.21736080896191157 false 3 -0.21736080896191157 true
+genomeend 9
+/* Organism #115 Fitness: 4.831 Error: 3.247 */
+genomestart 115
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.02994485926293335 false 1 -0.02994485926293335 true
+gene 2 2 4 0.21296337060970394 false 2 0.21296337060970394 true
+gene 3 3 4 -0.6810079805032596 false 3 -0.6810079805032596 true
+genomeend 115
+/* Organism #114 Fitness: 4.830 Error: 3.248 */
+genomestart 114
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.18474111159321802 false 1 0.18474111159321802 true
+gene 2 2 4 0.29362802635818197 false 2 0.29362802635818197 true
+gene 3 3 4 0.968242853386967 false 3 0.968242853386967 true
+genomeend 114
+/* Organism #176 Fitness: 4.825 Error: 3.252 */
+genomestart 176
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.1538451182401808 false 1 0.1538451182401808 true
+gene 2 2 4 0.35729521511447737 false 2 0.35729521511447737 true
+gene 3 3 4 0.4107476909386791 false 3 0.4107476909386791 true
+genomeend 176
+/* Organism #88 Fitness: 4.824 Error: 3.253 */
+genomestart 88
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.2698522330431112 false 1 0.2698522330431112 true
+gene 2 2 4 0.6880496504142288 false 2 0.6880496504142288 true
+gene 3 3 4 0.8381307459091156 false 3 0.8381307459091156 true
+genomeend 88
+/* Organism #154 Fitness: 4.810 Error: 3.264 */
+genomestart 154
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.7655271772129495 false 1 -0.7655271772129495 true
+gene 2 2 4 -0.5383053774048223 false 2 -0.5383053774048223 true
+gene 3 3 4 0.5263686147845 false 3 0.5263686147845 true
+genomeend 154
+/* Organism #103 Fitness: 4.778 Error: 3.291 */
+genomestart 103
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.667099398035348 false 1 0.667099398035348 true
+gene 2 2 4 -0.7117782040341448 false 2 -0.7117782040341448 true
+gene 3 3 4 -0.31644637738590475 false 3 -0.31644637738590475 true
+genomeend 103
+/* Organism #59 Fitness: 4.756 Error: 3.310 */
+genomestart 59
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.3595890545782111 false 1 -0.3595890545782111 true
+gene 2 2 4 0.4428818234490866 false 2 0.4428818234490866 true
+gene 3 3 4 0.5062560004466273 false 3 0.5062560004466273 true
+genomeend 59
+/* Organism #47 Fitness: 4.703 Error: 3.354 */
+genomestart 47
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.30944019963965297 false 1 -0.30944019963965297 true
+gene 2 2 4 0.2180049487823106 false 2 0.2180049487823106 true
+gene 3 3 4 0.8513040473042557 false 3 0.8513040473042557 true
+genomeend 47
+/* Organism #135 Fitness: 4.697 Error: 3.359 */
+genomestart 135
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.05286447688264884 false 1 0.05286447688264884 true
+gene 2 2 4 0.17885017991962332 false 2 0.17885017991962332 true
+gene 3 3 4 -0.8518786169943972 false 3 -0.8518786169943972 true
+genomeend 135
+/* Organism #127 Fitness: 4.682 Error: 3.372 */
+genomestart 127
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0 false 1 0 true
+gene 2 2 4 0.773601449113257 false 2 0.773601449113257 true
+gene 3 3 4 -0.9218606648759001 false 3 -0.9218606648759001 true
+genomeend 127
+/* Organism #42 Fitness: 4.644 Error: 3.404 */
+genomestart 42
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.06792842617788945 false 1 0.06792842617788945 true
+gene 2 2 4 0.6514648640711788 false 2 0.6514648640711788 true
+gene 3 3 4 -0.9455497223068557 false 3 -0.9455497223068557 true
+genomeend 42
+/* Organism #97 Fitness: 4.641 Error: 3.407 */
+genomestart 97
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.0964690507193252 false 1 -0.0964690507193252 true
+gene 2 2 4 -0.5166225689611079 false 2 -0.5166225689611079 true
+gene 3 3 4 0.5356383624919163 false 3 0.5356383624919163 true
+genomeend 97
+/* Organism #121 Fitness: 4.625 Error: 3.420 */
+genomestart 121
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.43042016350189727 false 1 -0.43042016350189727 true
+gene 2 2 4 0.7986355573750217 false 2 0.7986355573750217 true
+gene 3 3 4 -0.2558321008688666 false 3 -0.2558321008688666 true
+genomeend 121
+/* Organism #102 Fitness: 4.622 Error: 3.423 */
+genomestart 102
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.8845802135687779 false 1 -0.8845802135687779 true
+gene 2 2 4 -0.39433245874134665 false 2 -0.39433245874134665 true
+gene 3 3 4 0.5953624937117876 false 3 0.5953624937117876 true
+genomeend 102
+/* Organism #194 Fitness: 4.607 Error: 3.436 */
+genomestart 194
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.8898640727451775 false 1 0.8898640727451775 true
+gene 2 2 4 -0.7424803754203719 false 2 -0.7424803754203719 true
+gene 3 3 4 -0.9029550843122608 false 3 -0.9029550843122608 true
+genomeend 194
+/* Organism #34 Fitness: 4.585 Error: 3.455 */
+genomestart 34
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.07934178014551918 false 1 0.07934178014551918 true
+gene 2 2 4 -0.7192954757483122 false 2 -0.7192954757483122 true
+gene 3 3 4 0.20341722999332618 false 3 0.20341722999332618 true
+genomeend 34
+/* Organism #29 Fitness: 4.559 Error: 3.478 */
+genomestart 29
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.06423265477209619 false 1 0.06423265477209619 true
+gene 2 2 4 0.13684221975550542 false 2 0.13684221975550542 true
+gene 3 3 4 0.6265772942608635 false 3 0.6265772942608635 true
+genomeend 29
+/* Organism #174 Fitness: 4.530 Error: 3.503 */
+genomestart 174
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.9224861934343898 false 1 -0.9224861934343898 true
+gene 2 2 4 0.5578715948900015 false 2 0.5578715948900015 true
+gene 3 3 4 -0.77126498737644 false 3 -0.77126498737644 true
+genomeend 174
+/* Organism #7 Fitness: 4.479 Error: 3.548 */
+genomestart 7
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.9031170192778954 false 1 -0.9031170192778954 true
+gene 2 2 4 -0.16195450853176616 false 2 -0.16195450853176616 true
+gene 3 3 4 0.6890715547555071 false 3 0.6890715547555071 true
+genomeend 7
+/* Organism #0 Fitness: 4.476 Error: 3.551 */
+genomestart 0
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.016911707035466482 false 1 -0.016911707035466482 true
+gene 2 2 4 0.6346801846836553 false 2 0.6346801846836553 true
+gene 3 3 4 0.11076852817022552 false 3 0.11076852817022552 true
+genomeend 0
+/* Organism #76 Fitness: 4.467 Error: 3.559 */
+genomestart 76
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.3568890855223659 false 1 0.3568890855223659 true
+gene 2 2 4 0.7531398790233083 false 2 0.7531398790233083 true
+gene 3 3 4 0.34802544701060834 false 3 0.34802544701060834 true
+genomeend 76
+/* Organism #71 Fitness: 4.457 Error: 3.568 */
+genomestart 71
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.3795941547101233 false 1 0.3795941547101233 true
+gene 2 2 4 0.46485547517635256 false 2 0.46485547517635256 true
+gene 3 3 4 0.6026228223629355 false 3 0.6026228223629355 true
+genomeend 71
+/* Organism #128 Fitness: 4.428 Error: 3.594 */
+genomestart 128
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.7847499040683886 false 1 -0.7847499040683886 true
+gene 2 2 4 0.5050895103409572 false 2 0.5050895103409572 true
+gene 3 3 4 -0.2047243509685717 false 3 -0.2047243509685717 true
+genomeend 128
+/* Organism #107 Fitness: 4.400 Error: 3.619 */
+genomestart 107
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.41909083937091035 false 1 0.41909083937091035 true
+gene 2 2 4 0.4614409093504046 false 2 0.4614409093504046 true
+gene 3 3 4 0.8005563099947225 false 3 0.8005563099947225 true
+genomeend 107
+/* Organism #32 Fitness: 4.364 Error: 3.651 */
+genomestart 32
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.03441594906817178 false 1 0.03441594906817178 true
+gene 2 2 4 0.5388905159168162 false 2 0.5388905159168162 true
+gene 3 3 4 0.09232034666462612 false 3 0.09232034666462612 true
+genomeend 32
+/* Organism #66 Fitness: 4.327 Error: 3.686 */
+genomestart 66
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.649609925024246 false 1 -0.649609925024246 true
+gene 2 2 4 0.4962957955756138 false 2 0.4962957955756138 true
+gene 3 3 4 0.9006445732295476 false 3 0.9006445732295476 true
+genomeend 66
+/* Organism #41 Fitness: 4.319 Error: 3.694 */
+genomestart 41
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.6491645284856898 false 1 -0.6491645284856898 true
+gene 2 2 4 -0.1866856974014925 false 2 -0.1866856974014925 true
+gene 3 3 4 0.34637802535467893 false 3 0.34637802535467893 true
+genomeend 41
+/* Organism #104 Fitness: 4.309 Error: 3.702 */
+genomestart 104
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.07399686157539355 false 1 -0.07399686157539355 true
+gene 2 2 4 0.6327653108085634 false 2 0.6327653108085634 true
+gene 3 3 4 0.07721871504185938 false 3 0.07721871504185938 true
+genomeend 104
+/* Organism #144 Fitness: 4.309 Error: 3.703 */
+genomestart 144
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.18669931938662152 false 1 -0.18669931938662152 true
+gene 2 2 4 -0.28068388029819913 false 2 -0.28068388029819913 true
+gene 3 3 4 0.5263275756603489 false 3 0.5263275756603489 true
+genomeend 144
+/* Organism #49 Fitness: 4.308 Error: 3.704 */
+genomestart 49
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.20942477410543076 false 1 0.20942477410543076 true
+gene 2 2 4 0.09106342455584814 false 2 0.09106342455584814 true
+gene 3 3 4 0.8639529306319533 false 3 0.8639529306319533 true
+genomeend 49
+/* Organism #140 Fitness: 4.297 Error: 3.714 */
+genomestart 140
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.0002550371626889714 false 1 -0.0002550371626889714 true
+gene 2 2 4 -0.39376443877306255 false 2 -0.39376443877306255 true
+gene 3 3 4 0.23476017789731773 false 3 0.23476017789731773 true
+genomeend 140
+/* Organism #173 Fitness: 4.292 Error: 3.718 */
+genomestart 173
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.7454163821354026 false 1 0.7454163821354026 true
+gene 2 2 4 -0.41385738117196313 false 2 -0.41385738117196313 true
+gene 3 3 4 -0.11131638949981687 false 3 -0.11131638949981687 true
+genomeend 173
+/* Organism #28 Fitness: 4.273 Error: 3.736 */
+genomestart 28
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.18693120173921393 false 1 -0.18693120173921393 true
+gene 2 2 4 -0.9482955607454502 false 2 -0.9482955607454502 true
+gene 3 3 4 0.06420970918797105 false 3 0.06420970918797105 true
+genomeend 28
+/* Organism #190 Fitness: 4.273 Error: 3.736 */
+genomestart 190
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.07985880007482374 false 1 -0.07985880007482374 true
+gene 2 2 4 0.5834967504707986 false 2 0.5834967504707986 true
+gene 3 3 4 -0.49727747519623416 false 3 -0.49727747519623416 true
+genomeend 190
+/* Organism #80 Fitness: 4.266 Error: 3.742 */
+genomestart 80
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.16562951170796683 false 1 0.16562951170796683 true
+gene 2 2 4 0.09455447014609647 false 2 0.09455447014609647 true
+gene 3 3 4 0.3689339565732526 false 3 0.3689339565732526 true
+genomeend 80
+/* Organism #158 Fitness: 4.260 Error: 3.749 */
+genomestart 158
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.5260571800227545 false 1 0.5260571800227545 true
+gene 2 2 4 0.8993050804317004 false 2 0.8993050804317004 true
+gene 3 3 4 0.546314156991699 false 3 0.546314156991699 true
+genomeend 158
+/* Organism #155 Fitness: 4.254 Error: 3.754 */
+genomestart 155
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.4919773360635363 false 1 0.4919773360635363 true
+gene 2 2 4 0.8928514037955528 false 2 0.8928514037955528 true
+gene 3 3 4 0.3201935846666816 false 3 0.3201935846666816 true
+genomeend 155
+/* Organism #195 Fitness: 4.246 Error: 3.762 */
+genomestart 195
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.45994519648813853 false 1 -0.45994519648813853 true
+gene 2 2 4 0.2078481542749745 false 2 0.2078481542749745 true
+gene 3 3 4 -0.1650820532451205 false 3 -0.1650820532451205 true
+genomeend 195
+/* Organism #45 Fitness: 4.235 Error: 3.772 */
+genomestart 45
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.9488621493076979 false 1 -0.9488621493076979 true
+gene 2 2 4 -0.18430845618462707 false 2 -0.18430845618462707 true
+gene 3 3 4 0.5275748279788448 false 3 0.5275748279788448 true
+genomeend 45
+/* Organism #86 Fitness: 4.217 Error: 3.789 */
+genomestart 86
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.886919072135575 false 1 -0.886919072135575 true
+gene 2 2 4 0.352024537375309 false 2 0.352024537375309 true
+gene 3 3 4 -0.8392177105879549 false 3 -0.8392177105879549 true
+genomeend 86
+/* Organism #30 Fitness: 4.188 Error: 3.817 */
+genomestart 30
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.32505063185594874 false 1 -0.32505063185594874 true
+gene 2 2 4 -0.3812401067791719 false 2 -0.3812401067791719 true
+gene 3 3 4 0.07673134305006248 false 3 0.07673134305006248 true
+genomeend 30
+/* Organism #61 Fitness: 4.164 Error: 3.839 */
+genomestart 61
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.2947982775029079 false 1 0.2947982775029079 true
+gene 2 2 4 0.09307613812693409 false 2 0.09307613812693409 true
+gene 3 3 4 0.27592303667629325 false 3 0.27592303667629325 true
+genomeend 61
+/* Organism #147 Fitness: 4.160 Error: 3.844 */
+genomestart 147
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.07068867823489397 false 1 0.07068867823489397 true
+gene 2 2 4 0.05358163765813086 false 2 0.05358163765813086 true
+gene 3 3 4 -0.5551600344417142 false 3 -0.5551600344417142 true
+genomeend 147
+/* Organism #120 Fitness: 4.152 Error: 3.851 */
+genomestart 120
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.09437706162954895 false 1 -0.09437706162954895 true
+gene 2 2 4 0.3849227895789026 false 2 0.3849227895789026 true
+gene 3 3 4 0.07261879014572266 false 3 0.07261879014572266 true
+genomeend 120
+/* Organism #133 Fitness: 4.125 Error: 3.877 */
+genomestart 133
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.47851268647409 false 1 0.47851268647409 true
+gene 2 2 4 -0.4516060564322381 false 2 -0.4516060564322381 true
+gene 3 3 4 -0.4670379247016902 false 3 -0.4670379247016902 true
+genomeend 133
+/* Organism #60 Fitness: 4.106 Error: 3.895 */
+genomestart 60
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.3315739144952148 false 1 -0.3315739144952148 true
+gene 2 2 4 0.27501175284705015 false 2 0.27501175284705015 true
+gene 3 3 4 -0.047037758135858615 false 3 -0.047037758135858615 true
+genomeend 60
+/* Organism #40 Fitness: 4.096 Error: 3.905 */
+genomestart 40
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.7387329524789388 false 1 0.7387329524789388 true
+gene 2 2 4 0.6404875253684449 false 2 0.6404875253684449 true
+gene 3 3 4 0.7513580524298361 false 3 0.7513580524298361 true
+genomeend 40
+/* Organism #106 Fitness: 4.085 Error: 3.916 */
+genomestart 106
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.17567616118225013 false 1 0.17567616118225013 true
+gene 2 2 4 0.4438525731464087 false 2 0.4438525731464087 true
+gene 3 3 4 -0.821674986290221 false 3 -0.821674986290221 true
+genomeend 106
+/* Organism #35 Fitness: 4.073 Error: 3.927 */
+genomestart 35
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0 false 1 0 true
+gene 2 2 4 0.11844717611089277 false 2 0.11844717611089277 true
+gene 3 3 4 0.106310097474511 false 3 0.106310097474511 true
+genomeend 35
+/* Organism #91 Fitness: 4.063 Error: 3.938 */
+genomestart 91
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.10356703502615457 false 1 0.10356703502615457 true
+gene 2 2 4 0.036262094363673676 false 2 0.036262094363673676 true
+gene 3 3 4 -0.44378243480760826 false 3 -0.44378243480760826 true
+genomeend 91
+/* Organism #54 Fitness: 4.061 Error: 3.939 */
+genomestart 54
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.21026234836615262 false 1 0.21026234836615262 true
+gene 2 2 4 0.5446940212496446 false 2 0.5446940212496446 true
+gene 3 3 4 0.018512264066129824 false 3 0.018512264066129824 true
+genomeend 54
+/* Organism #126 Fitness: 4.056 Error: 3.945 */
+genomestart 126
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.5236225170256431 false 1 0.5236225170256431 true
+gene 2 2 4 0.593081254186891 false 2 0.593081254186891 true
+gene 3 3 4 0.05107164261330127 false 3 0.05107164261330127 true
+genomeend 126
+/* Organism #83 Fitness: 4.044 Error: 3.956 */
+genomestart 83
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.893645641659345 false 1 0.893645641659345 true
+gene 2 2 4 0.5525402047832192 false 2 0.5525402047832192 true
+gene 3 3 4 0.7681363379844038 false 3 0.7681363379844038 true
+genomeend 83
+/* Organism #48 Fitness: 4.043 Error: 3.958 */
+genomestart 48
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.9653653536974433 false 1 -0.9653653536974433 true
+gene 2 2 4 -0.1330415607592224 false 2 -0.1330415607592224 true
+gene 3 3 4 0.26702129343203923 false 3 0.26702129343203923 true
+genomeend 48
+/* Organism #139 Fitness: 4.037 Error: 3.964 */
+genomestart 139
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.6813117941795822 false 1 0.6813117941795822 true
+gene 2 2 4 -0.06842771624564249 false 2 -0.06842771624564249 true
+gene 3 3 4 -0.12182333746789843 false 3 -0.12182333746789843 true
+genomeend 139
+/* Organism #92 Fitness: 4.033 Error: 3.968 */
+genomestart 92
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.3054506235384286 false 1 0.3054506235384286 true
+gene 2 2 4 0.011702078676072005 false 2 0.011702078676072005 true
+gene 3 3 4 0.7544610453489585 false 3 0.7544610453489585 true
+genomeend 92
+/* Organism #10 Fitness: 4.028 Error: 3.972 */
+genomestart 10
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.6949107838904758 false 1 0.6949107838904758 true
+gene 2 2 4 -0.9303489299195382 false 2 -0.9303489299195382 true
+gene 3 3 4 -0.4499331314273736 false 3 -0.4499331314273736 true
+genomeend 10
+/* Organism #87 Fitness: 4.027 Error: 3.973 */
+genomestart 87
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.909842761677289 false 1 0.909842761677289 true
+gene 2 2 4 0.31238756605416607 false 2 0.31238756605416607 true
+gene 3 3 4 0.2932227035157067 false 3 0.2932227035157067 true
+genomeend 87
+/* Organism #110 Fitness: 4.014 Error: 3.986 */
+genomestart 110
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.7167298239797958 false 1 0.7167298239797958 true
+gene 2 2 4 0.0490275832401421 false 2 0.0490275832401421 true
+gene 3 3 4 0.18397566025789097 false 3 0.18397566025789097 true
+genomeend 110
+/* Organism #98 Fitness: 4.011 Error: 3.989 */
+genomestart 98
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.9798338115812981 false 1 0.9798338115812981 true
+gene 2 2 4 0.32651265461418943 false 2 0.32651265461418943 true
+gene 3 3 4 0.11332210576608574 false 3 0.11332210576608574 true
+genomeend 98
+/* Organism #166 Fitness: 4.007 Error: 3.993 */
+genomestart 166
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.6911634220296695 false 1 0.6911634220296695 true
+gene 2 2 4 0.07625489576281821 false 2 0.07625489576281821 true
+gene 3 3 4 0.041847189409778225 false 3 0.041847189409778225 true
+genomeend 166
+/* Organism #164 Fitness: 4.004 Error: 3.996 */
+genomestart 164
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.9168040467682896 false 1 -0.9168040467682896 true
+gene 2 2 4 -0.61542163956693 false 2 -0.61542163956693 true
+gene 3 3 4 0.019544815192973106 false 3 0.019544815192973106 true
+genomeend 164
+/* Organism #105 Fitness: 4.000 Error: 4.000 */
+genomestart 105
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.013580687642602651 false 1 0.013580687642602651 true
+gene 2 2 4 0.00033084411266073887 false 2 0.00033084411266073887 true
+gene 3 3 4 -0.13768544667355756 false 3 -0.13768544667355756 true
+genomeend 105
+/* Organism #168 Fitness: 4.000 Error: 4.000 */
+genomestart 168
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.26859475100625585 false 1 0.26859475100625585 true
+gene 2 2 4 -0.45430940658134045 false 2 -0.45430940658134045 true
+gene 3 3 4 0 false 3 0 true
+genomeend 168
+/* Organism #198 Fitness: 4.000 Error: 4.000 */
+genomestart 198
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.18771060372098616 false 1 0.18771060372098616 true
+gene 2 2 4 0 false 2 0 true
+gene 3 3 4 -0.2591571983437775 false 3 -0.2591571983437775 true
+genomeend 198
+/* Organism #94 Fitness: 4.000 Error: 4.000 */
+genomestart 94
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.22223696234084625 false 1 -0.22223696234084625 true
+gene 2 2 4 -0.6216568795313034 false 2 -0.6216568795313034 true
+gene 3 3 4 0 false 3 0 true
+genomeend 94
+/* Organism #165 Fitness: 4.000 Error: 4.000 */
+genomestart 165
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.12436620524810321 false 1 -0.12436620524810321 true
+gene 2 2 4 0.0958380718436575 false 2 0.0958380718436575 true
+gene 3 3 4 0 false 3 0 true
+genomeend 165
+/* Organism #132 Fitness: 4.000 Error: 4.000 */
+genomestart 132
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.030153602119568572 false 1 0.030153602119568572 true
+gene 2 2 4 -0.3039377913968314 false 2 -0.3039377913968314 true
+gene 3 3 4 0 false 3 0 true
+genomeend 132
+/* Organism #26 Fitness: 4.000 Error: 4.000 */
+genomestart 26
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.7296888136780096 false 1 -0.7296888136780096 true
+gene 2 2 4 0.4826355905930088 false 2 0.4826355905930088 true
+gene 3 3 4 0 false 3 0 true
+genomeend 26
+/* Organism #130 Fitness: 4.000 Error: 4.000 */
+genomestart 130
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.7025164666406603 false 1 0.7025164666406603 true
+gene 2 2 4 0 false 2 0 true
+gene 3 3 4 -0.1439729186634756 false 3 -0.1439729186634756 true
+genomeend 130
+/* Organism #185 Fitness: 4.000 Error: 4.000 */
+genomestart 185
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.8040043378706224 false 1 0.8040043378706224 true
+gene 2 2 4 -0.38081804343801695 false 2 -0.38081804343801695 true
+gene 3 3 4 0 false 3 0 true
+genomeend 185
+/* Organism #161 Fitness: 4.000 Error: 4.000 */
+genomestart 161
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.8640626714314891 false 1 0.8640626714314891 true
+gene 2 2 4 0 false 2 0 true
+gene 3 3 4 -0.18852073952180676 false 3 -0.18852073952180676 true
+genomeend 161
+/* Organism #134 Fitness: 4.000 Error: 4.000 */
+genomestart 134
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.9055061882250268 false 1 -0.9055061882250268 true
+gene 2 2 4 0.20767385593969392 false 2 0.20767385593969392 true
+gene 3 3 4 0 false 3 0 true
+genomeend 134
+/* Organism #27 Fitness: 4.000 Error: 4.000 */
+genomestart 27
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.08338775880531538 false 1 0.08338775880531538 true
+gene 2 2 4 0 false 2 0 true
+gene 3 3 4 0.0861635948187891 false 3 0.0861635948187891 true
+genomeend 27
+/* Organism #137 Fitness: 4.000 Error: 4.000 */
+genomestart 137
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.41620463053188245 false 1 -0.41620463053188245 true
+gene 2 2 4 0.8961220518279877 false 2 0.8961220518279877 true
+gene 3 3 4 0 false 3 0 true
+genomeend 137
+/* Organism #170 Fitness: 4.000 Error: 4.000 */
+genomestart 170
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.03459864237542046 false 1 -0.03459864237542046 true
+gene 2 2 4 0 false 2 0 true
+gene 3 3 4 -0.33319201554520617 false 3 -0.33319201554520617 true
+genomeend 170
+/* Organism #2 Fitness: 4.000 Error: 4.000 */
+genomestart 2
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.3548984267856308 false 1 -0.3548984267856308 true
+gene 2 2 4 0 false 2 0 true
+gene 3 3 4 -0.9964618147134465 false 3 -0.9964618147134465 true
+genomeend 2
+/* Organism #108 Fitness: 4.000 Error: 4.000 */
+genomestart 108
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.4697862943260055 false 1 -0.4697862943260055 true
+gene 2 2 4 0 false 2 0 true
+gene 3 3 4 -0.9355991319734721 false 3 -0.9355991319734721 true
+genomeend 108
+/* Organism #167 Fitness: 4.000 Error: 4.000 */
+genomestart 167
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.9481439442991239 false 1 -0.9481439442991239 true
+gene 2 2 4 -0.17441290885708682 false 2 -0.17441290885708682 true
+gene 3 3 4 0 false 3 0 true
+genomeend 167
+/* Organism #21 Fitness: 4.000 Error: 4.000 */
+genomestart 21
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.06069676449077957 false 1 0.06069676449077957 true
+gene 2 2 4 0.3588204680198053 false 2 0.3588204680198053 true
+gene 3 3 4 0 false 3 0 true
+genomeend 21
+/* Organism #142 Fitness: 4.000 Error: 4.000 */
+genomestart 142
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.08954792428455643 false 1 -0.08954792428455643 true
+gene 2 2 4 0 false 2 0 true
+gene 3 3 4 0.11316614486231913 false 3 0.11316614486231913 true
+genomeend 142
+/* Organism #143 Fitness: 4.000 Error: 4.000 */
+genomestart 143
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.30774737686843706 false 1 0.30774737686843706 true
+gene 2 2 4 0 false 2 0 true
+gene 3 3 4 0.9580203160345548 false 3 0.9580203160345548 true
+genomeend 143
+/* Organism #152 Fitness: 4.000 Error: 4.000 */
+genomestart 152
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.9208179374587154 false 1 -0.9208179374587154 true
+gene 2 2 4 0 false 2 0 true
+gene 3 3 4 -0.6807183114618923 false 3 -0.6807183114618923 true
+genomeend 152
+/* Organism #43 Fitness: 4.000 Error: 4.000 */
+genomestart 43
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.45950037071958233 false 1 0.45950037071958233 true
+gene 2 2 4 0 false 2 0 true
+gene 3 3 4 0 false 3 0 true
+genomeend 43
+/* Organism #62 Fitness: 3.989 Error: 4.011 */
+genomestart 62
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.06919702919891761 false 1 -0.06919702919891761 true
+gene 2 2 4 -0.6221807481324765 false 2 -0.6221807481324765 true
+gene 3 3 4 0.7631975372063597 false 3 0.7631975372063597 true
+genomeend 62
+/* Organism #89 Fitness: 3.982 Error: 4.018 */
+genomestart 89
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.713709740112713 false 1 0.713709740112713 true
+gene 2 2 4 -0.031146037120490598 false 2 -0.031146037120490598 true
+gene 3 3 4 0.7709107133520035 false 3 0.7709107133520035 true
+genomeend 89
+/* Organism #65 Fitness: 3.976 Error: 4.024 */
+genomestart 65
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.9028638065933333 false 1 0.9028638065933333 true
+gene 2 2 4 -0.10109101028546466 false 2 -0.10109101028546466 true
+gene 3 3 4 0.3367512370694923 false 3 0.3367512370694923 true
+genomeend 65
+/* Organism #17 Fitness: 3.973 Error: 4.027 */
+genomestart 17
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.9808108498533946 false 1 -0.9808108498533946 true
+gene 2 2 4 -0.5597597847221846 false 2 -0.5597597847221846 true
+gene 3 3 4 -0.5154412743059182 false 3 -0.5154412743059182 true
+genomeend 17
+/* Organism #13 Fitness: 3.968 Error: 4.032 */
+genomestart 13
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.7153949108838882 false 1 -0.7153949108838882 true
+gene 2 2 4 -0.3544516589171338 false 2 -0.3544516589171338 true
+gene 3 3 4 -0.08720662465551937 false 3 -0.08720662465551937 true
+genomeend 13
+/* Organism #112 Fitness: 3.953 Error: 4.048 */
+genomestart 112
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.6749732751209823 false 1 -0.6749732751209823 true
+gene 2 2 4 -0.8168763287147018 false 2 -0.8168763287147018 true
+gene 3 3 4 -0.08956374452820577 false 3 -0.08956374452820577 true
+genomeend 112
+/* Organism #136 Fitness: 3.950 Error: 4.051 */
+genomestart 136
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.8450145405664418 false 1 -0.8450145405664418 true
+gene 2 2 4 -0.36822221017686796 false 2 -0.36822221017686796 true
+gene 3 3 4 -0.9069206403132736 false 3 -0.9069206403132736 true
+genomeend 136
+/* Organism #156 Fitness: 3.949 Error: 4.052 */
+genomestart 156
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.6233944533927454 false 1 0.6233944533927454 true
+gene 2 2 4 -0.05662185172436042 false 2 -0.05662185172436042 true
+gene 3 3 4 0.6665935717175896 false 3 0.6665935717175896 true
+genomeend 156
+/* Organism #73 Fitness: 3.947 Error: 4.053 */
+genomestart 73
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.8107531577068317 false 1 -0.8107531577068317 true
+gene 2 2 4 -0.28875365820299326 false 2 -0.28875365820299326 true
+gene 3 3 4 -0.6932894285810698 false 3 -0.6932894285810698 true
+genomeend 73
+/* Organism #111 Fitness: 3.943 Error: 4.057 */
+genomestart 111
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.6842450529385811 false 1 -0.6842450529385811 true
+gene 2 2 4 -0.4531810174592141 false 2 -0.4531810174592141 true
+gene 3 3 4 -0.13617174889574074 false 3 -0.13617174889574074 true
+genomeend 111
+/* Organism #184 Fitness: 3.941 Error: 4.059 */
+genomestart 184
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.3262613674271678 false 1 0.3262613674271678 true
+gene 2 2 4 0.9891875996039927 false 2 0.9891875996039927 true
+gene 3 3 4 -0.02109441713236959 false 3 -0.02109441713236959 true
+genomeend 184
+/* Organism #11 Fitness: 3.936 Error: 4.064 */
+genomestart 11
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.09363153673174289 false 1 -0.09363153673174289 true
+gene 2 2 4 0.722613484261753 false 2 0.722613484261753 true
+gene 3 3 4 -0.5184201766560608 false 3 -0.5184201766560608 true
+genomeend 11
+/* Organism #19 Fitness: 3.935 Error: 4.066 */
+genomestart 19
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.821242320030748 false 1 -0.821242320030748 true
+gene 2 2 4 -0.6850163007054368 false 2 -0.6850163007054368 true
+gene 3 3 4 -0.8476250026102481 false 3 -0.8476250026102481 true
+genomeend 19
+/* Organism #125 Fitness: 3.929 Error: 4.072 */
+genomestart 125
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.7986861388193934 false 1 -0.7986861388193934 true
+gene 2 2 4 -0.6527512823215829 false 2 -0.6527512823215829 true
+gene 3 3 4 -0.7154958715121079 false 3 -0.7154958715121079 true
+genomeend 125
+/* Organism #68 Fitness: 3.915 Error: 4.086 */
+genomestart 68
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.5590745683508734 false 1 0.5590745683508734 true
+gene 2 2 4 -0.06718819895166792 false 2 -0.06718819895166792 true
+gene 3 3 4 0.956449161986546 false 3 0.956449161986546 true
+genomeend 68
+/* Organism #38 Fitness: 3.908 Error: 4.093 */
+genomestart 38
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.7253044553874883 false 1 -0.7253044553874883 true
+gene 2 2 4 -0.4890491916499822 false 2 -0.4890491916499822 true
+gene 3 3 4 -0.5557383177218176 false 3 -0.5557383177218176 true
+genomeend 38
+/* Organism #12 Fitness: 3.899 Error: 4.102 */
+genomestart 12
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.6836810301609222 false 1 -0.6836810301609222 true
+gene 2 2 4 0.03827294691246888 false 2 0.03827294691246888 true
+gene 3 3 4 0.9261064646602492 false 3 0.9261064646602492 true
+genomeend 12
+/* Organism #18 Fitness: 3.898 Error: 4.104 */
+genomestart 18
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.6930436826048433 false 1 -0.6930436826048433 true
+gene 2 2 4 -0.5318403784381062 false 2 -0.5318403784381062 true
+gene 3 3 4 -0.4231411382213569 false 3 -0.4231411382213569 true
+genomeend 18
+/* Organism #191 Fitness: 3.877 Error: 4.125 */
+genomestart 191
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.3228858463129953 false 1 0.3228858463129953 true
+gene 2 2 4 -0.378940446845524 false 2 -0.378940446845524 true
+gene 3 3 4 0.052854086815039565 false 3 0.052854086815039565 true
+genomeend 191
+/* Organism #23 Fitness: 3.865 Error: 4.137 */
+genomestart 23
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.12816995866938188 false 1 -0.12816995866938188 true
+gene 2 2 4 -0.035434513320717745 false 2 -0.035434513320717745 true
+gene 3 3 4 -0.5871336042849772 false 3 -0.5871336042849772 true
+genomeend 23
+/* Organism #187 Fitness: 3.851 Error: 4.152 */
+genomestart 187
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.6932436515608752 false 1 0.6932436515608752 true
+gene 2 2 4 0.22462659583713343 false 2 0.22462659583713343 true
+gene 3 3 4 -0.2253587787370772 false 3 -0.2253587787370772 true
+genomeend 187
+/* Organism #20 Fitness: 3.845 Error: 4.158 */
+genomestart 20
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.5696645906478649 false 1 0.5696645906478649 true
+gene 2 2 4 0.08735722706020399 false 2 0.08735722706020399 true
+gene 3 3 4 -0.9479278509444553 false 3 -0.9479278509444553 true
+genomeend 20
+/* Organism #157 Fitness: 3.842 Error: 4.162 */
+genomestart 157
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.35072945288364155 false 1 -0.35072945288364155 true
+gene 2 2 4 0.07888531167911296 false 2 0.07888531167911296 true
+gene 3 3 4 0.30298613319746975 false 3 0.30298613319746975 true
+genomeend 157
+/* Organism #79 Fitness: 3.826 Error: 4.178 */
+genomestart 79
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.32051622000286845 false 1 -0.32051622000286845 true
+gene 2 2 4 0.31924193560786374 false 2 0.31924193560786374 true
+gene 3 3 4 0.19693984172127374 false 3 0.19693984172127374 true
+genomeend 79
+/* Organism #145 Fitness: 3.818 Error: 4.186 */
+genomestart 145
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.7000118712014047 false 1 -0.7000118712014047 true
+gene 2 2 4 0.06747926762592289 false 2 0.06747926762592289 true
+gene 3 3 4 0.9197999019386595 false 3 0.9197999019386595 true
+genomeend 145
+/* Organism #141 Fitness: 3.806 Error: 4.198 */
+genomestart 141
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.16740406696411703 false 1 0.16740406696411703 true
+gene 2 2 4 -0.3926204921118223 false 2 -0.3926204921118223 true
+gene 3 3 4 -0.12943609997124775 false 3 -0.12943609997124775 true
+genomeend 141
+/* Organism #196 Fitness: 3.806 Error: 4.199 */
+genomestart 196
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.5502032683705411 false 1 -0.5502032683705411 true
+gene 2 2 4 -0.6105565826189425 false 2 -0.6105565826189425 true
+gene 3 3 4 -0.37307593774987463 false 3 -0.37307593774987463 true
+genomeend 196
+/* Organism #179 Fitness: 3.778 Error: 4.229 */
+genomestart 179
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.48473058667540825 false 1 -0.48473058667540825 true
+gene 2 2 4 -0.2595733852402436 false 2 -0.2595733852402436 true
+gene 3 3 4 -0.6416076581190137 false 3 -0.6416076581190137 true
+genomeend 179
+/* Organism #75 Fitness: 3.763 Error: 4.244 */
+genomestart 75
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.3649169696338826 false 1 -0.3649169696338826 true
+gene 2 2 4 0.12563291898028 false 2 0.12563291898028 true
+gene 3 3 4 0.2890953540673368 false 3 0.2890953540673368 true
+genomeend 75
+/* Organism #160 Fitness: 3.725 Error: 4.285 */
+genomestart 160
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.8946978453679435 false 1 0.8946978453679435 true
+gene 2 2 4 -0.4089018135627038 false 2 -0.4089018135627038 true
+gene 3 3 4 0.7907596763974581 false 3 0.7907596763974581 true
+genomeend 160
+/* Organism #57 Fitness: 3.715 Error: 4.295 */
+genomestart 57
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.48331709118581406 false 1 -0.48331709118581406 true
+gene 2 2 4 0.21505328398156073 false 2 0.21505328398156073 true
+gene 3 3 4 0.5965154895584286 false 3 0.5965154895584286 true
+genomeend 57
+/* Organism #15 Fitness: 3.703 Error: 4.308 */
+genomestart 15
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.356279766751493 false 1 0.356279766751493 true
+gene 2 2 4 -0.11153987347492425 false 2 -0.11153987347492425 true
+gene 3 3 4 0.568991184960963 false 3 0.568991184960963 true
+genomeend 15
+/* Organism #58 Fitness: 3.700 Error: 4.312 */
+genomestart 58
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0 false 1 0 true
+gene 2 2 4 0.3962640996195099 false 2 0.3962640996195099 true
+gene 3 3 4 -0.2116452052303539 false 3 -0.2116452052303539 true
+genomeend 58
+/* Organism #149 Fitness: 3.656 Error: 4.359 */
+genomestart 149
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.4908173685665028 false 1 0.4908173685665028 true
+gene 2 2 4 -0.2342214204285095 false 2 -0.2342214204285095 true
+gene 3 3 4 0.2511342340040242 false 3 0.2511342340040242 true
+genomeend 149
+/* Organism #36 Fitness: 3.651 Error: 4.365 */
+genomestart 36
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.29018546750333607 false 1 0.29018546750333607 true
+gene 2 2 4 -0.9411161920246272 false 2 -0.9411161920246272 true
+gene 3 3 4 0.4782228327831266 false 3 0.4782228327831266 true
+genomeend 36
+/* Organism #180 Fitness: 3.641 Error: 4.376 */
+genomestart 180
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.3825145034083276 false 1 0.3825145034083276 true
+gene 2 2 4 -0.22948443689453346 false 2 -0.22948443689453346 true
+gene 3 3 4 0.19874832093341996 false 3 0.19874832093341996 true
+genomeend 180
+/* Organism #53 Fitness: 3.598 Error: 4.424 */
+genomestart 53
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.7909562898473647 false 1 0.7909562898473647 true
+gene 2 2 4 0.43581916002617427 false 2 0.43581916002617427 true
+gene 3 3 4 -0.42127150129043106 false 3 -0.42127150129043106 true
+genomeend 53
+/* Organism #119 Fitness: 3.580 Error: 4.444 */
+genomestart 119
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.04327462662929228 false 1 0.04327462662929228 true
+gene 2 2 4 -0.4013645782336838 false 2 -0.4013645782336838 true
+gene 3 3 4 0.46128081400732496 false 3 0.46128081400732496 true
+genomeend 119
+/* Organism #153 Fitness: 3.534 Error: 4.495 */
+genomestart 153
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.3541018712810327 false 1 0.3541018712810327 true
+gene 2 2 4 -0.2528715665264062 false 2 -0.2528715665264062 true
+gene 3 3 4 0.23313315795324804 false 3 0.23313315795324804 true
+genomeend 153
+/* Organism #124 Fitness: 3.524 Error: 4.507 */
+genomestart 124
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.18149575704161552 false 1 0.18149575704161552 true
+gene 2 2 4 0.30400766821891456 false 2 0.30400766821891456 true
+gene 3 3 4 -0.45914304135031925 false 3 -0.45914304135031925 true
+genomeend 124
+/* Organism #33 Fitness: 3.457 Error: 4.583 */
+genomestart 33
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.8754117029802428 false 1 -0.8754117029802428 true
+gene 2 2 4 0.3830746708275336 false 2 0.3830746708275336 true
+gene 3 3 4 0.2790569178522254 false 3 0.2790569178522254 true
+genomeend 33
+/* Organism #16 Fitness: 3.443 Error: 4.598 */
+genomestart 16
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.7721407058019188 false 1 0.7721407058019188 true
+gene 2 2 4 0.8373682960545906 false 2 0.8373682960545906 true
+gene 3 3 4 -0.44887288924981245 false 3 -0.44887288924981245 true
+genomeend 16
+/* Organism #182 Fitness: 3.431 Error: 4.612 */
+genomestart 182
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.08934468043188087 false 1 -0.08934468043188087 true
+gene 2 2 4 -0.6261526392244552 false 2 -0.6261526392244552 true
+gene 3 3 4 -0.15730953304904755 false 3 -0.15730953304904755 true
+genomeend 182
+/* Organism #22 Fitness: 3.365 Error: 4.690 */
+genomestart 22
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.3692813352123642 false 1 0.3692813352123642 true
+gene 2 2 4 -0.4156969333900672 false 2 -0.4156969333900672 true
+gene 3 3 4 -0.5361013917126198 false 3 -0.5361013917126198 true
+genomeend 22
+/* Organism #172 Fitness: 3.333 Error: 4.728 */
+genomestart 172
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.3059372862783317 false 1 -0.3059372862783317 true
+gene 2 2 4 -0.8571166166541909 false 2 -0.8571166166541909 true
+gene 3 3 4 -0.8203305447986302 false 3 -0.8203305447986302 true
+genomeend 172
+/* Organism #56 Fitness: 3.331 Error: 4.731 */
+genomestart 56
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.8513192032474171 false 1 0.8513192032474171 true
+gene 2 2 4 -0.9041264338164807 false 2 -0.9041264338164807 true
+gene 3 3 4 -0.9490953611703468 false 3 -0.9490953611703468 true
+genomeend 56
+/* Organism #159 Fitness: 3.324 Error: 4.739 */
+genomestart 159
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.0558341150049752 false 1 -0.0558341150049752 true
+gene 2 2 4 0.8037423231044205 false 2 0.8037423231044205 true
+gene 3 3 4 -0.20869500529411536 false 3 -0.20869500529411536 true
+genomeend 159
+/* Organism #181 Fitness: 3.313 Error: 4.752 */
+genomestart 181
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.543059237142083 false 1 0.543059237142083 true
+gene 2 2 4 0.29807428718600487 false 2 0.29807428718600487 true
+gene 3 3 4 -0.9837475457003655 false 3 -0.9837475457003655 true
+genomeend 181
+/* Organism #175 Fitness: 3.290 Error: 4.780 */
+genomestart 175
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.8183918315477646 false 1 -0.8183918315477646 true
+gene 2 2 4 0.9224080187592198 false 2 0.9224080187592198 true
+gene 3 3 4 0.2512020556493711 false 3 0.2512020556493711 true
+genomeend 175
+/* Organism #70 Fitness: 3.287 Error: 4.783 */
+genomestart 70
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.5091983540941382 false 1 0.5091983540941382 true
+gene 2 2 4 0.3200449730665091 false 2 0.3200449730665091 true
+gene 3 3 4 -0.9609537316168691 false 3 -0.9609537316168691 true
+genomeend 70
+/* Organism #113 Fitness: 3.280 Error: 4.792 */
+genomestart 113
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.7848658285628147 false 1 0.7848658285628147 true
+gene 2 2 4 0.6107388552502442 false 2 0.6107388552502442 true
+gene 3 3 4 -0.5307629469658193 false 3 -0.5307629469658193 true
+genomeend 113
+/* Organism #8 Fitness: 3.227 Error: 4.855 */
+genomestart 8
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.1376933372176767 false 1 0.1376933372176767 true
+gene 2 2 4 0.6222948083462824 false 2 0.6222948083462824 true
+gene 3 3 4 -0.6970349731259331 false 3 -0.6970349731259331 true
+genomeend 8
+/* Organism #183 Fitness: 3.176 Error: 4.919 */
+genomestart 183
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.7849604702364024 false 1 0.7849604702364024 true
+gene 2 2 4 -0.5550586180842776 false 2 -0.5550586180842776 true
+gene 3 3 4 0.818858488354238 false 3 0.818858488354238 true
+genomeend 183
+/* Organism #148 Fitness: 3.148 Error: 4.954 */
+genomestart 148
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.022889672846820246 false 1 0.022889672846820246 true
+gene 2 2 4 -0.7982211670077938 false 2 -0.7982211670077938 true
+gene 3 3 4 0.958341787117859 false 3 0.958341787117859 true
+genomeend 148
+/* Organism #100 Fitness: 3.127 Error: 4.980 */
+genomestart 100
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.17807545660553087 false 1 0.17807545660553087 true
+gene 2 2 4 -0.2087095540846595 false 2 -0.2087095540846595 true
+gene 3 3 4 0.8299728827308044 false 3 0.8299728827308044 true
+genomeend 100
+/* Organism #96 Fitness: 3.106 Error: 5.007 */
+genomestart 96
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.9649792896721563 false 1 0.9649792896721563 true
+gene 2 2 4 0.49919874576753975 false 2 0.49919874576753975 true
+gene 3 3 4 -0.7703355116187729 false 3 -0.7703355116187729 true
+genomeend 96
+/* Organism #69 Fitness: 3.097 Error: 5.019 */
+genomestart 69
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.6731727805696731 false 1 0.6731727805696731 true
+gene 2 2 4 -0.9391208152268281 false 2 -0.9391208152268281 true
+gene 3 3 4 0.24743851722511873 false 3 0.24743851722511873 true
+genomeend 69
+/* Organism #95 Fitness: 2.989 Error: 5.158 */
+genomestart 95
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.779522094583154 false 1 0.779522094583154 true
+gene 2 2 4 -0.6544223034090499 false 2 -0.6544223034090499 true
+gene 3 3 4 0.42956814972089213 false 3 0.42956814972089213 true
+genomeend 95
+/* Organism #39 Fitness: 2.989 Error: 5.158 */
+genomestart 39
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.31675155758648 false 1 0.31675155758648 true
+gene 2 2 4 -0.4430004585600713 false 2 -0.4430004585600713 true
+gene 3 3 4 -0.5505737483467803 false 3 -0.5505737483467803 true
+genomeend 39
+/* Organism #31 Fitness: 2.979 Error: 5.172 */
+genomestart 31
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.1223246578941041 false 1 0.1223246578941041 true
+gene 2 2 4 -0.815106479207316 false 2 -0.815106479207316 true
+gene 3 3 4 -0.24822995608893073 false 3 -0.24822995608893073 true
+genomeend 31
+/* Organism #99 Fitness: 2.941 Error: 5.221 */
+genomestart 99
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.14278530730425476 false 1 -0.14278530730425476 true
+gene 2 2 4 -0.5310081729282435 false 2 -0.5310081729282435 true
+gene 3 3 4 -0.7514914326369034 false 3 -0.7514914326369034 true
+genomeend 99
+/* Organism #67 Fitness: 2.913 Error: 5.258 */
+genomestart 67
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.11393061873734402 false 1 0.11393061873734402 true
+gene 2 2 4 0.7497123058166111 false 2 0.7497123058166111 true
+gene 3 3 4 -0.694950521089592 false 3 -0.694950521089592 true
+genomeend 67
+/* Organism #193 Fitness: 2.891 Error: 5.288 */
+genomestart 193
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.7164823742095373 false 1 -0.7164823742095373 true
+gene 2 2 4 0.5042858099601989 false 2 0.5042858099601989 true
+gene 3 3 4 0.5587967731180635 false 3 0.5587967731180635 true
+genomeend 193
+/* Organism #151 Fitness: 2.878 Error: 5.306 */
+genomestart 151
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.07929921410838851 false 1 0.07929921410838851 true
+gene 2 2 4 0.9998301914771046 false 2 0.9998301914771046 true
+gene 3 3 4 -0.8867970513119298 false 3 -0.8867970513119298 true
+genomeend 151
+/* Organism #199 Fitness: 2.849 Error: 5.346 */
+genomestart 199
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.8332821982783312 false 1 -0.8332821982783312 true
+gene 2 2 4 0.43022836738475084 false 2 0.43022836738475084 true
+gene 3 3 4 0.43629815625459606 false 3 0.43629815625459606 true
+genomeend 199
+/* Organism #51 Fitness: 2.844 Error: 5.353 */
+genomestart 51
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.4441454751940129 false 1 0.4441454751940129 true
+gene 2 2 4 0.608795113460742 false 2 0.608795113460742 true
+gene 3 3 4 -0.40157107082695814 false 3 -0.40157107082695814 true
+genomeend 51
+/* Organism #188 Fitness: 2.793 Error: 5.423 */
+genomestart 188
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.9853198593881375 false 1 -0.9853198593881375 true
+gene 2 2 4 0.8382457467187913 false 2 0.8382457467187913 true
+gene 3 3 4 0.8315734729942386 false 3 0.8315734729942386 true
+genomeend 188
+/* Organism #63 Fitness: 2.791 Error: 5.425 */
+genomestart 63
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.05629761341701732 false 1 0.05629761341701732 true
+gene 2 2 4 -0.7622880136242768 false 2 -0.7622880136242768 true
+gene 3 3 4 0.9677149146504898 false 3 0.9677149146504898 true
+genomeend 63
+/* Organism #138 Fitness: 2.773 Error: 5.451 */
+genomestart 138
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.21137478254985126 false 1 0.21137478254985126 true
+gene 2 2 4 -0.3356718162827927 false 2 -0.3356718162827927 true
+gene 3 3 4 -0.7491138937420314 false 3 -0.7491138937420314 true
+genomeend 138
+/* Organism #146 Fitness: 2.769 Error: 5.456 */
+genomestart 146
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.05053866439339555 false 1 0.05053866439339555 true
+gene 2 2 4 -0.3824779890019539 false 2 -0.3824779890019539 true
+gene 3 3 4 -0.5608036636642686 false 3 -0.5608036636642686 true
+genomeend 146
+/* Organism #150 Fitness: 2.573 Error: 5.740 */
+genomestart 150
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 -0.914245434196054 false 1 -0.914245434196054 true
+gene 2 2 4 0.41436319833331386 false 2 0.41436319833331386 true
+gene 3 3 4 0.652320842408327 false 3 0.652320842408327 true
+genomeend 150
+/* Organism #101 Fitness: 2.550 Error: 5.775 */
+genomestart 101
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.7109632227583919 false 1 0.7109632227583919 true
+gene 2 2 4 0.37141193190445504 false 2 0.37141193190445504 true
+gene 3 3 4 -0.8871987094350765 false 3 -0.8871987094350765 true
+genomeend 101
+/* Organism #72 Fitness: 2.514 Error: 5.829 */
+genomestart 72
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.29743777449465986 false 1 0.29743777449465986 true
+gene 2 2 4 -0.4644140321229137 false 2 -0.4644140321229137 true
+gene 3 3 4 -0.734156467003909 false 3 -0.734156467003909 true
+genomeend 72
+/* Organism #3 Fitness: 2.502 Error: 5.848 */
+genomestart 3
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.8349747143635805 false 1 0.8349747143635805 true
+gene 2 2 4 -0.7983206003434 false 2 -0.7983206003434 true
+gene 3 3 4 0.7434290897593976 false 3 0.7434290897593976 true
+genomeend 3
+/* Organism #90 Fitness: 2.492 Error: 5.863 */
+genomestart 90
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.3272475296577355 false 1 0.3272475296577355 true
+gene 2 2 4 -0.45895969728386093 false 2 -0.45895969728386093 true
+gene 3 3 4 -0.8301185314308076 false 3 -0.8301185314308076 true
+genomeend 90
+/* Organism #52 Fitness: 2.490 Error: 5.867 */
+genomestart 52
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.48779025744628707 false 1 0.48779025744628707 true
+gene 2 2 4 -0.6255712114039347 false 2 -0.6255712114039347 true
+gene 3 3 4 0.4636188292805407 false 3 0.4636188292805407 true
+genomeend 52
+/* Organism #189 Fitness: 2.268 Error: 6.220 */
+genomestart 189
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.9219509055562927 false 1 0.9219509055562927 true
+gene 2 2 4 0.617852557861832 false 2 0.617852557861832 true
+gene 3 3 4 -0.9723769475908058 false 3 -0.9723769475908058 true
+genomeend 189
+/* Organism #50 Fitness: 2.253 Error: 6.244 */
+genomestart 50
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.13579504351690821 false 1 0.13579504351690821 true
+gene 2 2 4 -0.9564357770146485 false 2 -0.9564357770146485 true
+gene 3 3 4 -0.49352396861886744 false 3 -0.49352396861886744 true
+genomeend 50
+/* Organism #162 Fitness: 2.119 Error: 6.473 */
+genomestart 162
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.2652694947651239 false 1 0.2652694947651239 true
+gene 2 2 4 -0.643702025528354 false 2 -0.643702025528354 true
+gene 3 3 4 -0.6821049712324475 false 3 -0.6821049712324475 true
+genomeend 162
+/* Organism #109 Fitness: 2.112 Error: 6.485 */
+genomestart 109
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.5166787877492771 false 1 0.5166787877492771 true
+gene 2 2 4 -0.6749325009195771 false 2 -0.6749325009195771 true
+gene 3 3 4 0.6874501936713008 false 3 0.6874501936713008 true
+genomeend 109
+/* Organism #129 Fitness: 2.095 Error: 6.516 */
+genomestart 129
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.8061953646940756 false 1 0.8061953646940756 true
+gene 2 2 4 -0.8734999554192956 false 2 -0.8734999554192956 true
+gene 3 3 4 0.9783861497742415 false 3 0.9783861497742415 true
+genomeend 129
+/* Organism #37 Fitness: 2.051 Error: 6.594 */
+genomestart 37
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.38846483380450086 false 1 0.38846483380450086 true
+gene 2 2 4 -0.6841699763645219 false 2 -0.6841699763645219 true
+gene 3 3 4 -0.7947634832943623 false 3 -0.7947634832943623 true
+genomeend 37
+/* Organism #24 Fitness: 2.045 Error: 6.604 */
+genomestart 24
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.16985930055843534 false 1 0.16985930055843534 true
+gene 2 2 4 -0.9279102854824467 false 2 -0.9279102854824467 true
+gene 3 3 4 -0.6034770537394668 false 3 -0.6034770537394668 true
+genomeend 24
+/* Organism #93 Fitness: 1.984 Error: 6.715 */
+genomestart 93
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.7632022895923143 false 1 0.7632022895923143 true
+gene 2 2 4 -0.9987760773778313 false 2 -0.9987760773778313 true
+gene 3 3 4 0.5901707391077771 false 3 0.5901707391077771 true
+genomeend 93
+/* Organism #192 Fitness: 1.773 Error: 7.120 */
+genomestart 192
+trait 1 0.1 0 0 0 0 0 0 0
+trait 2 0.2 0 0 0 0 0 0 0
+trait 3 0.3 0 0 0 0 0 0 0
+node 1 0 1 3 NullActivation
+node 2 0 1 1 NullActivation
+node 3 0 1 1 NullActivation
+node 4 0 0 2 SigmoidSteepenedActivation
+gene 1 1 4 0.3316234216575185 false 1 0.3316234216575185 true
+gene 2 2 4 -0.8065812239588375 false 2 -0.8065812239588375 true
+gene 3 3 4 -0.822318108034601 false 3 -0.822318108034601 true
+genomeend 192

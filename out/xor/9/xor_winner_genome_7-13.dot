@@ -1,0 +1,98 @@
+strict digraph {
+// Node definitions.
+1 [
+neuron_type=BIAS
+activation_type=NullActivation
+];
+2 [
+neuron_type=INPT
+activation_type=NullActivation
+];
+3 [
+neuron_type=INPT
+activation_type=NullActivation
+];
+4 [
+neuron_type=OUTP
+activation_type=SigmoidSteepenedActivation
+];
+7 [
+neuron_type=HIDN
+activation_type=SigmoidSteepenedActivation
+];
+50 [
+neuron_type=HIDN
+activation_type=SigmoidSteepenedActivation
+];
+83 [
+neuron_type=HIDN
+activation_type=SigmoidSteepenedActivation
+];
+
+// Edge definitions.
+1 -> 4 [
+weight=-2.741501
+recurrent=false
+parameters="[0.3764815729952554 0.07997675584160183 0.31575828663490246 0 0.23737870302267677 0 0.22972905814406036 0]"
+];
+1 -> 7 [
+weight=4.375749
+recurrent=false
+parameters="[0.3122908657978194 0 0 0 0 0 0 0]"
+];
+1 -> 50 [
+weight=-2.313909
+recurrent=false
+parameters="[0.3122908657978194 0 0 0 0 0 0 0]"
+];
+2 -> 4 [
+weight=-2.544866
+recurrent=false
+parameters="[0.27627088423927754 0.6871727954794892 0.4524739963507704 0.6190599160891445 0 0.7084613994301165 0.014992785009329428 0]"
+];
+2 -> 7 [
+weight=3.146225
+recurrent=false
+parameters="[0.3122908657978194 0 0 0 0 0 0 0]"
+];
+2 -> 50 [
+weight=5.975127
+recurrent=false
+parameters="[0.3122908657978194 0 0 0 0 0 0 0]"
+];
+2 -> 83 [
+weight=1.000000
+recurrent=false
+parameters="[0.27627088423927754 0.6871727954794892 0.4524739963507704 0.6190599160891445 0 0.7084613994301165 0.014992785009329428 0]"
+];
+3 -> 4 [
+weight=-3.248685
+recurrent=false
+parameters="[0.3122908657978194 0 0 0 0 0 0 0]"
+];
+3 -> 7 [
+weight=-3.404059
+recurrent=false
+parameters="[0.3122908657978194 0 0 0 0 0 0 0]"
+];
+3 -> 50 [
+weight=4.908157
+recurrent=false
+parameters="[0.3764815729952554 0.07997675584160183 0.31575828663490246 0 0.23737870302267677 0 0.22972905814406036 0]"
+];
+7 -> 4 [
+weight=-4.867520
+recurrent=false
+parameters="[0.27627088423927754 0.6871727954794892 0.4524739963507704 0.6190599160891445 0 0.7084613994301165 0.014992785009329428 0]"
+];
+50 -> 4 [
+weight=10.788815
+recurrent=false
+parameters="[0.3122908657978194 0 0 0 0 0 0 0]"
+];
+83 -> 4 [
+weight=1.500161
+recurrent=false
+parameters="[0.27627088423927754 0.6871727954794892 0.4524739963507704 0.6190599160891445 0 0.7084613994301165 0.014992785009329428 0]"
+];
+}

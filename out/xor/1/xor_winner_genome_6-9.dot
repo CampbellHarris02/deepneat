@@ -1,0 +1,74 @@
+strict digraph {
+// Node definitions.
+1 [
+neuron_type=BIAS
+activation_type=NullActivation
+];
+2 [
+neuron_type=INPT
+activation_type=NullActivation
+];
+3 [
+neuron_type=INPT
+activation_type=NullActivation
+];
+4 [
+neuron_type=OUTP
+activation_type=SigmoidSteepenedActivation
+];
+14 [
+neuron_type=HIDN
+activation_type=SigmoidSteepenedActivation
+];
+217 [
+neuron_type=HIDN
+activation_type=SigmoidSteepenedActivation
+];
+
+// Edge definitions.
+1 -> 4 [
+weight=-1.566664
+recurrent=false
+parameters="[0.2651035814110836 0.0030069259997080144 0 0 0.014805194147599936 0.33476312238809064 0.1015732311004143 0]"
+];
+1 -> 14 [
+weight=-0.329179
+recurrent=false
+parameters="[0.2651035814110836 0.0030069259997080144 0 0 0.014805194147599936 0.33476312238809064 0.1015732311004143 0]"
+];
+2 -> 4 [
+weight=3.956633
+recurrent=false
+parameters="[0.6035454355427559 0 0 0 0.7438517481266288 0 0 0]"
+];
+2 -> 14 [
+weight=-3.585731
+recurrent=false
+parameters="[0.3 0.11524015743237685 0 0.10515712516197855 0 0 0 0]"
+];
+3 -> 4 [
+weight=-2.376444
+recurrent=false
+parameters="[0.3 0.11524015743237685 0 0.10515712516197855 0 0 0 0]"
+];
+3 -> 14 [
+weight=2.558487
+recurrent=false
+parameters="[0.3 0.11524015743237685 0 0.10515712516197855 0 0 0 0]"
+];
+3 -> 217 [
+weight=1.000000
+recurrent=false
+parameters="[0.3 0.11524015743237685 0 0.10515712516197855 0 0 0 0]"
+];
+14 -> 4 [
+weight=7.254018
+recurrent=false
+parameters="[0.6035454355427559 0 0 0 0.7438517481266288 0 0 0]"
+];
+217 -> 4 [
+weight=-0.809149
+recurrent=false
+parameters="[0.3 0.11524015743237685 0 0.10515712516197855 0 0 0 0]"
+];
+}
